@@ -1,39 +1,26 @@
-<img src="https://images.unsplash.com/photo-1477132394330-d2376dc4c091" width="100%"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/glorfindell" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
-  </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
-</p>
-
+<img src="photo-1688045149536-bb528b5a3dfb.jpeg" width="100%"/>
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2> <img src="/imgs/title1.png" width="25"/> <strong>About  me </strong></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
+<img src="https://i.pinimg.com/originals/00/58/13/005813869c18f5ea253a4a3de5aa3892.gif" width="250" align="right" style="margin-left: 20px;" />
 <p>
   Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 </p>
 
+<br/>
+<div>
+  <a href="https://t.me/theromanticsoul" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:yarulinainur@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
+  </a>
+</div>
 
 <br/>
 
-<p align="center">
+<p>
    <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
    <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
    <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
@@ -61,20 +48,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-<br/>
-<br/>
-
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
-
-<div align = "center"> 
-
-![](https://nirzak-streak-stats.vercel.app?user=theromanticsoul&theme=highcontrast&hide_border=true&border_radius=0&short_numbers=true&mode=weekly&card_width=1000)
- 
- <br/><br/>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=theromanticsoul&bg_color=000000&color=696969&line=ffffff&point=ffffff&area=true&hide_border=true)
-</div>
 
 
 
