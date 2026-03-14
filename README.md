@@ -1,53 +1,43 @@
-<img src="photo-1688045149536-bb528b5a3dfb.jpeg" width="100%"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/33ac4f92659093.5e509d9c53860.jpg" width="100%"/>
 
-<br>
-
-<h2> <img src="/imgs/title1.png" width="25"/> <strong>About  me </strong></h2>
-
-<img src="https://i.pinimg.com/originals/00/58/13/005813869c18f5ea253a4a3de5aa3892.gif" width="250" align="right" style="margin-left: 20px;" />
-<p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
-</p>
-
+<div>
+  <h2><strong>ABOUT ME</strong></h2>
+  <img src="https://i.pinimg.com/1200x/7d/28/35/7d28355ae55210429e7558b8a615a91c.jpg" width="270" align="right" style="margin-left: 50px;" />
+  <p>
+    <a href="https://t.me/theromanticsoul" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:yarulinainur@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/mail-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
+    </a>
+  </p>
+  <p>
+    Hello. I'm Ainur Yarulin, a student in Information Systems and Programming.
+    Self-taught web developer. I study new technologies, rewrite projects over and over. All in a loop.
+    <br/>
+    <br/>
+    Seversk Industrial College, Seversk (Tomsk Oblast) — Web and multimedia systems development
+  </p>
+</div>
 <br/>
 <div>
-  <a href="https://t.me/theromanticsoul" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:yarulinainur@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
-  </a>
+  <h2><strong>TECHNOLOGIES</strong></h2>
+  <p>
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nuxt-000000?style=for-the-badge&logo=nuxt&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/and so on...-000000?style=for-the-badge" />
+  </p>
 </div>
 
-<br/>
-
-<p>
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Chess Player  </b></em><br/>
-</p>
-
-<br/>
-<br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=theromanticsoul&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
